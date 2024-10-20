@@ -1,2 +1,2 @@
-# java-console
-project template for Java CLI app
+# jfx-template
+project template for JavaFX app
